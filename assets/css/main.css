@@ -1261,31 +1261,31 @@ img.imgupdown {
 }
 
 .about--options>a:nth-child(1) {
-	background-image: url("/assets/img/photoshop.png")
+	background-image: url("../assets/img/photoshop.png")
 }
 
 .about--options>a:nth-child(2) {
-	background-image: url("/assets/img/Illustrator.png")
+	background-image: url("../assets/img/Illustrator.png")
 }
 
 .about--options>a:nth-child(3) {
-	background-image: url("/assets/img/Premiere\ Pro.png")
+	background-image: url("../assets/img/Premiere\ Pro.png")
 }
 
 
 
 .about--options02>a:nth-child(1) {
-	background-image: url("/assets/img/After\ Effects.png")
+	background-image: url("../assets/img/After\ Effects.png")
 }
 
 .about--options02>a:nth-child(3) {
-	background-image: url("/assets/img/Visual_code.png")
+	background-image: url("../assets/img/Visual_code.png")
 }
 
 
 
 .about--options02>a:nth-child(2) {
-	background-image: url("/assets/img/Adobe_xd.png")
+	background-image: url("../assets/img/Adobe_xd.png")
 }
 
 .skillapp
